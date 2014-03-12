@@ -1,1 +1,1 @@
-module for (X,Y,Z) positioning
+ROS Driver for controlling GRBL-enabled hardware
